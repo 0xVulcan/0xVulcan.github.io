@@ -24,18 +24,5 @@
 #downloads {
 display : none;
 }
-<!--  
- #main-div{
- display : flex;
- flex-flow : column nowrap;
- text-align : left;
- justify-content : space-between;
- }
- 
- #child-div{
- display:flex;
- flex-flow:row wrap;
- align-items : center;
- margin: 1.2em;
- } -->
+
 </style>
