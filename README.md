@@ -11,6 +11,6 @@ tryhackme | https://tryhackme.com/p/0xVulcan
  
 <style>
 #downloads {
-display : hidden;
+display : none;
 }
 </style>
