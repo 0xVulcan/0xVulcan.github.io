@@ -3,7 +3,7 @@
 <div id="main-div">
  
 <div class="child-div">
-    linkedin | <a href="https://www.linkedin.com/in/dev-adityapatil/" target="_blank">https://www.linkedin.com/in/dev-adityapatil/</a>
+    linkedin <br> --- <br> <a href="https://www.linkedin.com/in/dev-adityapatil/" target="_blank">https://www.linkedin.com/in/dev-adityapatil/</a>
 </div>
  
 <div class="child-div">
@@ -25,4 +25,23 @@
 display : none;
 }
 
+
+#main-div{
+  padding: 4em 2em; 
+  
+}
+
+hr {
+  padding-bottom: 2em;
+}
+
+header{
+  border:none;
+}
+
+#main_content{
+  overflow: scroll;
+  border: 1px dashed #b5e853;
+  padding: 2em;
+}
 </style>
