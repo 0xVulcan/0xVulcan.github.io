@@ -24,7 +24,7 @@
 #downloads {
 display : none;
 }
- 
+<!--  
  #main-div{
  display : flex;
  flex-flow : column nowrap;
@@ -37,5 +37,5 @@ display : none;
  flex-flow:row wrap;
  align-items : center;
  margin: 1.2em;
- }
+ } -->
 </style>
